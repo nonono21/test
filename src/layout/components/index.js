@@ -31,7 +31,7 @@ class Layout extends Component {
                         </div>
 
                         <ul className="list-unstyled components">
-                            <h3 className="sidebar-h3">Examples</h3>
+                            <h3 className="sidebar-h3">Examrrples</h3>
                             <NavItem>
                                 <NavLink exact={true} to={`${process.env.PUBLIC_URL}/`} activeClassName="active" className="nav-link">
                                         <Octicon icon={Home}/> Home
